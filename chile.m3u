@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.fevochi.cl/wp-content/uploads/2012/04/CDO-250.jpg" group-title="Deportes", CDO
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ShDHdjK9vjQ/WhzAzbqQpTI/AAAAAAAAO-A/bMIn2Yn8o_YvNaubBcgAZ6xahpkmtcqUgCLcBGAs/h200/Teletrack.jpg" group-title="Deportes", Teletrak HD
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://estaticos.tvn.cl/skins/2016/css/img/tvnanimado_2016.gif" group-title="Infantiles", TVN Kids
+https://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-wWvPNIeSDSw/Wn9lX-H2FWI/AAAAAAAAgwc/SsfCyM-wBWgDBxA5lU2NNkOOKUCfw_oiQCK8BGAs/s240/2018-02-10.png" group-title="Musica",  Contivisión Musica 
+http://movilstream.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/chunklist_w205005636_b1428000.m3u8
+#EXTINF:-1 tvg-logo="http://www.carolina.cl/tv/img/logo.png" group-title="Musica", Carolina TV
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3782545/logo_gufo%20chile.png" group-title="Musica", Gufo Chile
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/8be6db2d_1_540/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://niu.cl/wp-content/uploads/2017/07/logo_niumedia.png" group-title="Musica", Niu Media
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1MO5Q5LHa5Y/WT1sz41Cp8I/AAAAAAAAX2M/tplu6FqA5yMQnE06hf-G0XxcxWuc26ssgCL0B/h176/2017-06-11.png" group-title="Musica", Pandero CL
+http://190.107.176.55:1935/panderocl/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CjobXSuRv58/WT1s38pRjXI/AAAAAAAAX2Q/nsvVOaHZX-gzVop0Owc7hUeaNn4ijcf4gCL0B/h176/2017-06-11.png" group-title="Musica", Pandero TOP
+http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portalfoxmix.club/wp-content/uploads/2016/07/logoPFM.png" group-title="Musica", Portal FoxMix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://estaticos.tvn.cl/skins/musica20170317/201703171554/gfx/logo-musica.png" group-title="Musica", TVN Música
+https://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nacionales",  Canal de los Recuerdos 
+http://wow2.cl.digitalproserver.com/recuerdos/recuerdosvivo/recuerdos.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_TKtM2RQqmI/Wn9spWnjA1I/AAAAAAAAgyE/0iZBYFP-A50aiAFml8vli0WjoGOMMJwVwCK8BGAs/s350/2018-02-10.png" group-title="Nacionales",  FM Hot TV HD 
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://api.agamba.cl/tv/chile/img/nacionales/iconcdtv.png" group-title="Nacionales", Cámara de Diputados
+http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.13.cl/7/sites/all/themes/portal/resources/images/logo_13cl-2x.png" group-title="Nacionales", Canal 13
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:-1 tvg-logo="http://estaticos.chilevision.cl/chv.libs/img/logo-chv-1.0.png" group-title="Nacionales", CHV
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:-1 tvg-logo="http://lared.cl/app/themes/lared-theme/img/lr-logo.png" group-title="Nacionales", la red
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/908334406280077313/lfVOtZWn_400x400.jpg" group-title="Nacionales", Mega
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.5813af8d3c152_TVSenado(TVS).png.806198708aefc785b5a9cc7b6c84b65c.png" group-title="Nacionales", TV Senado
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:-1 tvg-logo="http://iptvchileyelmundo.xyz/logos/TVN%20HD.png" group-title="Nacionales", TVN
+http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/c/ca/Ucvtvlogo2014mejorado.png/revision/latest?cb=20150417224241&path-prefix=es" group-title="Nacionales", UCV
+http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://s6.postimg.org/zcnb7q641/image.png" group-title="Noticias", 24 Play
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/ANmega2015.png" group-title="Noticias", Ahora Noticias
+http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+#EXTINF:-1 tvg-logo="http://www.cnnchile.com/sites/default/files/desktop/CNN_Chile_Logo.png" group-title="Noticias", CNN Chile HD
+http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://resource.t13.cl/img/t13-movil-b.png" group-title="Noticias", T13 Móvil
+http://cdn.ztreaming.com/t13vivo3/mobile.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-n8guRt2BYoM/Wn9sHoeVutI/AAAAAAAAgx8/uOv_w5b0-rI6lDrs-yxbgTDWPs6G3X3BACK8BGAs/s250/2018-02-10.png" group-title="Radio Tv Chile",  ADN 
+http://unlimited5-cl.dps.live/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Yg6X4T5JVDU/WoBORinr3kI/AAAAAAAAgyU/PoCyGXScfC0DPGIMp1SjuLFrvs3gPamwwCK8BGAs/s132/2018-02-11.png" group-title="Radio Tv Chile", Futuro TV
+http://unlimited10-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mEW5hnh06kk/Wn9iDwBJ__I/AAAAAAAAgvs/bC-yY_Bj6tg4vkWwuxvb30Q4_rDt34TQwCK8BGAs/s225/2018-02-10.png" group-title="Regionales",  Ñuble Tv 
+https://593b04c4c5670.streamlock.net:443/tvdaniel/tvdaniel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-G9_SJK0nOL4/Wn9iXZ9h9yI/AAAAAAAAgvw/lXvnNA090fcnrd8iY1-kP6etLXyqkSVPwCK8BGAs/s225/2018-02-10.png" group-title="Regionales",  AM Canal 
+https://v3.tustreaming.cl/amtv/live1/tracks-v1a1/rewind-999999.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-9ykpPa7MOE0/Wn9ikLOHznI/AAAAAAAAgv0/piIOoaBDZPERcRlBvxF__pCtiJWX-Yi6QCK8BGAs/s200/2018-02-10.png" group-title="Regionales",  Antofagasta TV 
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w1499498801_b1428000.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8I3ALqJFO8U/Wn9iuwd_2jI/AAAAAAAAgv4/CGgV99apqosaMjAmYAWEYhxh279lzsyQQCK8BGAs/s220/2018-02-10.png" group-title="Regionales",  Arica TV 
+http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w1256972144_b848000.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-139lFbspmqQ/Wn9i-dwl09I/AAAAAAAAgv8/FNhrpJjzo-YoLJR0GqIvfm4dKEFoahxUACK8BGAs/s227/2018-02-10.png" group-title="Regionales",  Canal 2 de San Antonio 
+http://video.crearchile.com:8080/live/canal2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-vHPZDKnI4DA/Wn9jQKaevSI/AAAAAAAAgwA/BmNHaN_fsrU3STqrBKprFNMmV5jtd92sgCK8BGAs/s250/2018-02-10.png" group-title="Regionales",  Canal 2 Quellón 
+http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-zdameN8RkN4/Wn9k02_XleI/AAAAAAAAgwU/o7QWyXJUMuUIqbZ7vPAZ7eOHYmFLIBDNwCK8BGAs/s265/2018-02-10.png" group-title="Regionales",  Canal 21 Chillán 
+http://v3.tustreaming.cl/canal21chillan/live1/tracks-v1a1/event-999999.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bojBUAEpNTw/Wn9j98gVNFI/AAAAAAAAgwI/paPfc0JuEEQwhPAZGmXU-RygpEPdtuQCQCK8BGAs/s257/2018-02-10.png" group-title="Regionales",  Canal 33 Temuco 
+http://190.107.176.55:1935/live/canal-33/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-YROtKKMUiJs/Wn9kR_YY0-I/AAAAAAAAgwM/mNH_8ZDoHRUf56cpJRtlEh34lHUdqoCIwCK8BGAs/s250/2018-02-10.png" group-title="Regionales",  Canal 38 Carnaval 
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-9jGniOV_HbU/Wn9kk0i9tNI/AAAAAAAAgwQ/RixbnZEiYDgz3RwDDogVbONOi5P8oP2BwCK8BGAs/s400/2018-02-10.png" group-title="Regionales",  Canal 5 Linares 
+http://v3.tustreaming.cl/tv5/live1/tracks-v1a1/rewind-999999.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-opZ6mP8G3Fo/Wn9lBEeoQ4I/AAAAAAAAgwY/cKvIaCeqHZEwdTQ-pJPh7oCDIU2q-fECwCK8BGAs/s220/2018-02-10.png" group-title="Regionales",  Canal 9 Bío Bío 
+http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-YROtKKMUiJs/Wn9kR_YY0-I/AAAAAAAAgwM/mNH_8ZDoHRUf56cpJRtlEh34lHUdqoCIwCK8BGAs/s250/2018-02-10.png" group-title="Regionales",  Carnaval 
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-wWvPNIeSDSw/Wn9lX-H2FWI/AAAAAAAAgwc/SsfCyM-wBWgDBxA5lU2NNkOOKUCfw_oiQCK8BGAs/s240/2018-02-10.png" group-title="Regionales",  Contivisión 
+http://movilstream.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dqLUggcOtYY/Wn9lj22yXeI/AAAAAAAAgwg/yF5hF4MNlyQWY8MPVd97OMUVgV3yrJ0uACK8BGAs/s400/2018-02-10.png" group-title="Regionales",  Chiloé TV 
+http://streaminglivehd.com:1935/8038/8038/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NxeQx17jc7E/Wn9lvKl4XyI/AAAAAAAAgwk/yg9OmGL8ZdoUeruk7i0dYYzmhDa4xOB8gCK8BGAs/s225/2018-02-10.png" group-title="Regionales",  Gracia TV 
+http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TEqD4VtB8Cs/Wn9mTJZmljI/AAAAAAAAgws/QLENJ3EHBUomZy_tr5YKKYwPnSfqPln4ACK8BGAs/s256/2018-02-10.png" group-title="Regionales",  Inet TV 
+http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/chunklist_w1511777064_b828000.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uSEbJ_o0QlY/Wn9mgCZRMnI/AAAAAAAAgww/FemZGM5N_GQI7T4IgYhq3zTDPbhl_tfpQCK8BGAs/s302/2018-02-10.png" group-title="Regionales",  ITV Patagonia 
+http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-C6JnJunx2EI/Wn9mr1vlPGI/AAAAAAAAgw0/7oDdPgT-50UJwoehgFdE6YEQlPzM9YYyQCK8BGAs/s512/2018-02-10.png" group-title="Regionales",  Morrovision 
+http://video.crearchile.com:8080/live/mp4:morrovision.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TmPM1gqdUS8/Wn9m_65JtNI/AAAAAAAAgw4/Kr6ucgq8g7wJsJ6oiIHaSrEA3R5A6I7ggCK8BGAs/s132/2018-02-10.png" group-title="Regionales",  PinguinoTV 
+http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Regionales",  Sexta Visión 
+http://cl.streaminghd.cl/carlos132/carlos132/chunklist_w565655987.m3u8 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1vka6r8W0mM/Wn9nbBlPjSI/AAAAAAAAgw8/FjO6TeBOhrY12r-DnLOawEFZpf89I5vEQCK8BGAs/s512/2018-02-10.png" group-title="Regionales",  Televida HD 
+http://unlimited5-cl.dps.live/tlvida/tlvida.smil/tlvida/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-p3LlUC__MhE/Wn9ntTT4umI/AAAAAAAAgxA/ahIA2oru5JgDmruisQROdYlLiVOr6-DygCK8BGAs/s230/2018-02-10.png" group-title="Regionales",  ThemaTV 
+http://wow2.cl.digitalproserver.com/thema/themavivo/thema.smil/chunklist_w1551564427_b848000.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-C4zJMHbLdzA/Wn9n8gAYChI/AAAAAAAAgxE/cvJ_6aMPvksVBHJC7o01IM9-LZqIfKNBwCK8BGAs/s250/2018-02-10.png" group-title="Regionales",  TV Centro 
+http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-YKnczxULFOM/Wn9oIWd50EI/AAAAAAAAgxI/cabEVDlv_sMVFvmW77xJfZk4JbZvyNDgQCK8BGAs/s230/2018-02-10.png" group-title="Regionales",  TV Maule 
+http://sietransdemos.com/iptv/tvmaule.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KqVMZYYWTmw/Wn9oUb4r2HI/AAAAAAAAgxM/7PcNcpeHE8w1k5jXjucb5FYO6byb8i5ZACK8BGAs/s116/2018-02-10.png" group-title="Regionales",  TVO San Vicente 
+http://movilstream.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-sk32yxORWJ8/Wn9pIg4aMdI/AAAAAAAAgxU/gvkII2yf0pwHWxxcUZTlsXNUT0FjkUe0wCK8BGAs/s400/2018-02-10.png" group-title="Regionales",  TVRed Punta Arenas 
+http://69.164.193.177:1935/live/myStream/master.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EGVg4ZOStsM/Wn9rX4UuWGI/AAAAAAAAgx0/PL_mbeN06Ts6ghCrdDZ59I3UgSI88dXegCK8BGAs/s450/2018-02-10.png" group-title="Regionales",  UCV 3 - Gran Valparaíso 
+http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist_w870498386_b1428000.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-68ZfaG3S-uE/Wn9pq4PFv0I/AAAAAAAAgxg/Vh064kD8_-sjhEBRqnbEQE9NnA6f-MwAQCK8BGAs/s289/2018-02-10.png" group-title="Regionales",  UesTV 
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-erSfawHJ5nw/Wn9p8KBcpmI/AAAAAAAAgxk/Gue5xixu0Q8Thau3SoZf4DLYEt4emIz-ACK8BGAs/s300/2018-02-10.png" group-title="Regionales",  Universidad Autonoma 
+http://v1.tustreaming.cl:1935/tvautonoma/tvautonoma/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Regionales",  UTV San Clemente 
+http://play.mediostream.cl/utvs/live1/tracks-v1a1/index.m3u8 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Z4lnBH9o1Xg/Wn9qH_CN1nI/AAAAAAAAgxo/4OeIVek2OzIIfRaMqxKTs-M-_D9TrgYuACK8BGAs/s230/2018-02-10.png" group-title="Regionales",  VTV Aconcagua 
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Z4lnBH9o1Xg/Wn9qH_CN1nI/AAAAAAAAgxo/4OeIVek2OzIIfRaMqxKTs-M-_D9TrgYuACK8BGAs/s230/2018-02-10.png" group-title="Regionales",  VTV Viña del Mar 
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-tRkb11g6GOI/WoBPJm9cd4I/AAAAAAAAgyc/lrR7FPg27aoiQryOJXRQGuG8FLpKoXxBQCK8BGAs/s132/2018-02-11.png" group-title="Regionales", Pintana TV
+http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
